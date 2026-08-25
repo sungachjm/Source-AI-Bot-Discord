@@ -1,0 +1,10 @@
+{
+  "modules": {
+    "code": {
+      "systemPromptUrl": "https://raw.githubusercontent.com/THMEO-X/artificial-intelligence/main/moduleconfig.json"
+    },
+    "thmeo-x": {
+      "systemPromptUrl": "https://raw.githubusercontent.com/THMEO-X/artificial-intelligence/refs/heads/main/haha.json"
+    }
+  }
+}
